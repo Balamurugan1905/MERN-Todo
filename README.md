@@ -35,7 +35,23 @@ This application allows users to create, view, update, and delete tasks efficien
 
 ## 📂 Project Structure
 
-
+```
+mern-todo/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   └── server.js
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── App.js
+│   └── package.json
+│
+└── README.md
+```
 
 ---
 
