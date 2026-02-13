@@ -68,7 +68,7 @@ Make sure you have installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Balamurugan1905/MERN-Todo.git
+git clone https://github.com/Balamurugan1905/MERN-Todo-Taksio--.git
 cd mern-todo
 
 cd frontend
