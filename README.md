@@ -70,6 +70,7 @@ Make sure you have installed:
 ```bash
 git clone https://github.com/Balamurugan1905/MERN-Todo.git
 cd mern-todo
+
 cd frontend
 npm run dev
 
